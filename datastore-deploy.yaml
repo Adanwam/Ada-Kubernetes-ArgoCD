@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: data
-    image: datastore:v1.6
+    image: datastore:v1.7
     ports:
     - containerPort: 8081
